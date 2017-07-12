@@ -42,3 +42,6 @@ M 话语 d
 
 License:
 MIT
+
+添加了小冰语料：小冰人机对话语料1.txt file3.txt q.txt     
+添加了清洗干净的小黄鸡平行语料4月份ttx
